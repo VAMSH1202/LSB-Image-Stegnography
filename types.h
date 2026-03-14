@@ -1,5 +1,5 @@
 /*
-name : Oruganti Prem Sai
+name : MIRYALA VAMSHI
 description : steganography
 */
 #ifndef TYPES_H
