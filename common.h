@@ -1,5 +1,5 @@
 /*
-name :Oruganti Prem sai
+Name : MIRYALA VAMSHI
 description : steganography
 */
 #ifndef COMMON_H
