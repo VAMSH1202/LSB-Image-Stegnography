@@ -1,5 +1,5 @@
 /*
-name :Oruganti Prem Sai 
+Name : MIRYALA VAMSHI
 description : steganography
 */
 //include all the header including user defined header files
