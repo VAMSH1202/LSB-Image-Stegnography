@@ -1,5 +1,5 @@
 /*
-name : Oruganti Prem Sai
+name : MIRYALA VAMSHI
 description : steganography
 
 Input : (CLA) /a.out -e beautiful.bmp secret.txt out.bmp
